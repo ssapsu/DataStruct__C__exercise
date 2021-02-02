@@ -3,4 +3,4 @@ project(DataStruct__C__exercise)
 
 set(CMAKE_CXX_STANDARD 98)
 
-add_executable(DataStruct__C__exercise main.cpp)
+add_executable(DataStruct__C__exercise main.cpp main.cpp)
